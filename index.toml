@@ -121,6 +121,11 @@ hash = "98b174f93e1b252b0886521a02f36c04833d63ab832f2008d92d2e7d79c3ed18"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
@@ -203,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/forcecraft.pw.toml"
 hash = "7b9d56de3e741848543c76f59b7750599927fa98afb4fe109046c50c377f05a6"
+metafile = true
+
+[[files]]
+file = "mods/gamemenumodoption.pw.toml"
+hash = "a369f7aefec88143a1978559f80266d41aecdb2ad81066932648ad8feaf0c815"
 metafile = true
 
 [[files]]

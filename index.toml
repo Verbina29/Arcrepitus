@@ -96,11 +96,6 @@ hash = "350ab620f74b8385cc5f172bb445296a51e005d707e3a726e870b28132529e53"
 metafile = true
 
 [[files]]
-file = "mods/cyclops-core.pw.toml"
-hash = "264b1688008c30a56ad45822c93adca6f2f3bc6aac9895b9bc4678a10ad08fdb"
-metafile = true
-
-[[files]]
 file = "mods/datapack-anvil.pw.toml"
 hash = "824d07ee5c809c6ddb1b5d2710e0fcbe5af6588bea0a6507ffa3634292ca02b8"
 metafile = true
@@ -133,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/everlastingabilities.pw.toml"
 hash = "86db0cdd0fd4ebffc2e01266ed40bd00f4d1103fa9746750b4ff4d08585685ae"
-metafile = true
-
-[[files]]
-file = "mods/evilcraft.pw.toml"
-hash = "06119721874fc8b09366339f81200d61bec82ee8e7e41cf3ad08e02cbb095f16"
 metafile = true
 
 [[files]]
@@ -203,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9cba22bdbc8c89d44438b1e22ae677f7d6bf1c7f1adecfff2760427f2d974dee"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
 metafile = true
 
 [[files]]
@@ -323,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "6b5459292f51da149d1a9b86ee397e6f979909aa2e8fb0f7643eb15e62a31f29"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "653e0d33a5ff0b1949e19ad36b271f9a81e628b8e4783c42e27a2bcbee6f1b96"
 metafile = true
 
 [[files]]

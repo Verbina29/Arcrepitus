@@ -1,14 +1,14 @@
-name = "Light Overlay (Rift/Forge/Fabric)"
+name = "Light Overlay"
 filename = "light-overlay-7.0.1-forge.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
-hash-format = "sha1"
-hash = "62e281d2fb32a30708249765b81584aafd132d00"
+mode = "url"
+url = "https://cdn.modrinth.com/data/YfOlc91N/versions/MCXtDQmP/light-overlay-7.0.1-forge.jar"
+hash-format = "sha512"
+hash = "400c71e97f76f3ce36705f52b9d2b6df24dd8b23d4735234cee8a1c3a3798b9fd1be7983682e126bf9d8ebacf561a457980c7543b9fd23b2a1df585483193268"
 
 [update]
-[update.curseforge]
-file-id = 3872055
-project-id = 325492
+[update.modrinth]
+mod-id = "YfOlc91N"
+version = "MCXtDQmP"

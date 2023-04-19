@@ -1,1 +1,166 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "f660c5be9ad9bc7e9b418d965e3d3d6bfef4ad97ef0d0a0a41e660d8c49b3087"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "32df9adce0425388863cb1898b70958ce9441e8a8484b1f4a389d6eeff8a563f"
+metafile = true
+
+[[files]]
+file = "mods/axolotl-bucket-fix-forge.pw.toml"
+hash = "877b8bb6c0132b48e08a6edeb06d788650492e66779be8d420de2be9a7ca4ff3"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "2cc2540eeff2604ee2a2baaccd79141eca60d9a2cd7075099d6003a7fef86b48"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "58b6d3e92b7f56f6795e29c115f8c0c5581aab26ce403cdd61f3911e54b4e5f9"
+metafile = true
+
+[[files]]
+file = "mods/borderless.pw.toml"
+hash = "1ff195f607089dd1998a5865eebec9f634d72ef59cf67dcbd8de263d3ec5d333"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "b86c6eb1c611f31e3e7e35494ba44d23ad9788e19cb47301662e1144cfd5ffc2"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "3a7daf7c7bd5e8c9b9f26974dabfcefcd4a0c9b7741b41f5a4d4dce27a430973"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "3c6e9f14e71e880b00b3c61a34cb9f7d3e65641b9aa5f6a549a1e257248224ec"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "f5c0acdd29ffba387899edcc2890e7c3c555c8f481ee80864d1e2300349d6184"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "884fbb8534573985ed15692af362416946dd95b37ed233eb29a0fb5a5ac11e33"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "f82f939e27f605d9b4d3ff0e4b108552766fb276ca3e8d00cf3555255565f6c4"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "5bf8d3c02bfd7855031d7c9cc7b3bfb09c276c7cdc9b78e858922c47890ed918"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "14c03c5c4ebac3897c13c467291d09f840437c70330335085ba3ea1d8767638c"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "662e7bdabe333ccc1322205894c480a3e58ec3e5c01d94dd74d3f80c6555e0ad"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "7995494bc7aac4574e5606b8bc1002ed1064ec893c2927176e0a5754b7e7d5aa"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "088c94571cec7f6d6c47a3931987fd6a2b7593fc38408c8e1011c2fdf08cfa31"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "74293967e381c17a4f750ef27b409f337538a447b1f5da24b6eef65feda135db"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "d03d6d76da494d42c244cdcc6b654011f88767f2b052e75695295beb27c37b62"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "beef0b94353dc4eb59c91322ffc19bf1eb5092f30e463fb9f23c0f164df70247"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer-forge.pw.toml"
+hash = "ba83c7a52ea85cd4179f4a171dbcdd37fe6fb19b2093d5a639502c76124aa26d"
+metafile = true
+
+[[files]]
+file = "mods/pinghud.pw.toml"
+hash = "dfcbdae6f55d59dce6fe0196e4727421094356e0abaf0497e0b9ef95fab7d5c5"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "620cab251f09f339835ce084c857694f5b4f4078f7a34ba419a7089a69a9fd28"
+metafile = true
+
+[[files]]
+file = "mods/preciseblockplacing.pw.toml"
+hash = "7e99935a123d4033baf91a0d27587d6ea21433955df8eb86606057e92b343841"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "e044eaa21c25e35800a24fb1c4592de36468b3fc3c217110c88df996e7c055d0"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "06164bbe2c2031fa520042068e78400a98efc85ebb48a82fc8930877341e829a"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "5ae720397946ac033d00de2c42a8517bdf1f10690d1237a242d69ef914e830df"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "04a379871522ddcccfaa79ee1b30533b0b05af1a1c6a36076f7b2b9abe3cb5b3"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "2b72e6219824ab27aed8006746109ff4c449e1cb4d5ca6cd9a17a05495e2c03d"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "fdff3f4a9ad530403436c434ef025439e80608de4f1695ec02d2226f624861aa"
+metafile = true
+
+[[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "6e61ca876f9c0939b307969faaef972dacd5af4e333b8bfa9d16420d3e0a4cc0"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "687837a312b454837cdbcc49a3612a1b083e8b69413ee77df74ff6a8bce89c1a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "fe59193e3de99a5e1cdbdc167eccac045677759f3e660d24221ba9b91d18bd09"
+metafile = true

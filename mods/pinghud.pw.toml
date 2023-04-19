@@ -1,0 +1,14 @@
+name = "PingHUD"
+filename = "PingHUD-2.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "357bbfa5546b1d514ffccf507b74fe22b7a5b317"
+
+[update]
+[update.curseforge]
+file-id = 3949224
+project-id = 664124

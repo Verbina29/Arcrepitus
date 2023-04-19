@@ -1,0 +1,14 @@
+name = "Rubidium Extra"
+filename = "rubidium-extra-0.4.17+mc1.19.2-build.71.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/oY2B1pjg/versions/peZJZWJX/rubidium-extra-0.4.17%2Bmc1.19.2-build.71.jar"
+hash-format = "sha512"
+hash = "f3df901e724720e38794de6b21f8b578f0c84d1b917cb35321cf3dc26cc64653d15ad6eee7d39fff8a49c953284cc2de52a1eca9d0de9bfa1e30a613d1732e6e"
+
+[update]
+[update.modrinth]
+mod-id = "oY2B1pjg"
+version = "peZJZWJX"

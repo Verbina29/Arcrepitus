@@ -1,0 +1,13 @@
+name = "ForceCraft"
+filename = "forcecraft-1.19.2-3.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1146103fe287e3123ef6e9a0e147c6fb96a99e03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4482501
+project-id = 454802

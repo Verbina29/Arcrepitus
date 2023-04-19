@@ -1,0 +1,13 @@
+name = "Straw Golem Rebaled - Forge"
+filename = "Strawgolem-forge-1.19.2-2.0.0-beta.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "160486d62db0a9470d2d3edbb9525187599cf82b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4279392
+project-id = 387580

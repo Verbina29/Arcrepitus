@@ -236,6 +236,26 @@ hash = "25ec6d75fd9d733ebeb588f63f58c0c13fb90844d4a470537d81052d2ea0f1bc"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "fde0369eaad4e6f507b0e1d238b131877b9a291deff0715c9f1b5fb397aa176a"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "92ddfe50e50761527583e6da9b1ab66df775fb905be91603b54950cf68af16b3"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "a0787cf8f59bb3ecde0c73f683039fb3dd9db24d8f64fffc74851427b716631f"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "25b7d53f3cedff407d47cd8256a062b721354bb41012531fc3be13368b02abfd"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "ee1ee7a327ab99accfd09c935272f85188fee63aa0e77807b9dea39067f5a3dc"
 metafile = true
@@ -383,16 +403,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "246c46e50bfc4b4fdd98aa78425b2df36996dae77fdcad1278914484a2348d74"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "ac1e6ea25f54175b05b4cd981744271c26db29f470c00c54f9d71d1b3a56bb17"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "654525742e8d42c9a6f6567823c0cf005ea4785116233e6530ec9f5ce4397eff"
 metafile = true
 
 [[files]]

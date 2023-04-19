@@ -106,11 +106,6 @@ hash = "824d07ee5c809c6ddb1b5d2710e0fcbe5af6588bea0a6507ffa3634292ca02b8"
 metafile = true
 
 [[files]]
-file = "mods/elemental-craft.pw.toml"
-hash = "6767da716e8f111e281ecfa247f5cdb16bc2532204541954f304543632f0ae6f"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true

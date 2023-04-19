@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "9373941af9ada49b7cf3eef10f8bc5d476bd38b533a6cff985c6ebd8d3609a96"
+
+[[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "6484aa420e692ae254ed78123d600d7f48b7b1970f3d8c089330ca0552da725a"
+
+[[files]]
+file = "config/theabyss.toml"
+hash = "e78436cf1193e4bb3bf14ad637fefc94e5a992a0411119e08aa7548660e093dd"
+
+[[files]]
+file = "kubejs/server_scripts/advancement_removal.js"
+hash = "8e8f393577aec1197358b5d18c40a8e40352524218502f5c940e5df7f980192f"
+
+[[files]]
+file = "kubejs/server_scripts/script.js"
+hash = "df042901bf2685ee8b08780bc22a25fef1d9547092edd58a45e47e57093fe79a"
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "4c21bfaee9c59de2c1ce01a3004f2e47de7775c2f0043773ed435b7852be929c"
 metafile = true
@@ -17,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ff7d357e24271276700461907a889f1d846cb647d6831bf3a294a59eb8d0756c"
+hash = "6d494e07259ad63215a5057af1885d5fa47bd0986afe4a4e56e8b22e9c6b664f"
 metafile = true
 
 [[files]]
@@ -221,6 +241,11 @@ hash = "ee1ee7a327ab99accfd09c935272f85188fee63aa0e77807b9dea39067f5a3dc"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "4d1c72cd8de368c49d9e447c9700edae16c77419307547a91d026f4fddef2039"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
 metafile = true
@@ -248,11 +273,6 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "df33439e32683aaa3265a1031986d29b375b0036584db5de1b9f543822f35360"
-metafile = true
-
-[[files]]
-file = "mods/metallics-arts.pw.toml"
-hash = "d3dd97820c4d869bb0c9b4cb5e6363deb97eee62c74bcb849f1135b3d57180a8"
 metafile = true
 
 [[files]]
@@ -361,6 +381,11 @@ hash = "cb22106c50af08e7c68b9fe376a42dc8321a415b71d18b565d8cf4fa31ab668b"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "246c46e50bfc4b4fdd98aa78425b2df36996dae77fdcad1278914484a2348d74"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
 hash = "ac1e6ea25f54175b05b4cd981744271c26db29f470c00c54f9d71d1b3a56bb17"
 metafile = true
@@ -383,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "8b90af7acd60fbdf3f19861e794b7dc2d2c749480ccca7409aa0ea6e7752f7df"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
 metafile = true
 
 [[files]]

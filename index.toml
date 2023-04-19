@@ -231,6 +231,11 @@ hash = "22bed2f5be26074ac39fa491324906541b22260e91ac86e31b9c91ffaca8baa1"
 metafile = true
 
 [[files]]
+file = "mods/lightspeedmod.pw.toml"
+hash = "f56a5e7f29b94a6cbd5c0921e8f997e4f0c0b9b70bc79848558951dc20c94a2a"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "dfaef78e5e9b6078581105a50b06b94bb4cfaf1be07b5919567d99d7580e6264"
 metafile = true

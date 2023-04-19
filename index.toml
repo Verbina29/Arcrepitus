@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/axolotl-bucket-fix-forge.pw.toml"
-hash = "877b8bb6c0132b48e08a6edeb06d788650492e66779be8d420de2be9a7ca4ff3"
+hash = "2193c611f6f156b479921d55d675faee8a95a0ba1181464c56902129e1158e3c"
 metafile = true
 
 [[files]]
@@ -62,27 +62,27 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "5bf8d3c02bfd7855031d7c9cc7b3bfb09c276c7cdc9b78e858922c47890ed918"
+hash = "c697aa4b4121dc8dd0d6156f4705cb1a5d0804b2f1b92f35c523f649ef01c0d5"
 metafile = true
 
 [[files]]
-file = "mods/jade-addons.pw.toml"
-hash = "14c03c5c4ebac3897c13c467291d09f840437c70330335085ba3ea1d8767638c"
+file = "mods/jade-addons-forge.pw.toml"
+hash = "01e68e662dd3116054b163332957a2cea2be795525a99f715c4ea33cfa0c6843"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "662e7bdabe333ccc1322205894c480a3e58ec3e5c01d94dd74d3f80c6555e0ad"
+hash = "2087f7ff81ed64863632290d40b3f7ca2312772e2c6bbcb3e2c12ca3f0f64f19"
 metafile = true
 
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
-hash = "7995494bc7aac4574e5606b8bc1002ed1064ec893c2927176e0a5754b7e7d5aa"
+hash = "6ffd1ef0b2ac6e0d310ce32af0f943f014937620f7046433772b0b3f3585e2f6"
 metafile = true
 
 [[files]]
 file = "mods/light-overlay.pw.toml"
-hash = "088c94571cec7f6d6c47a3931987fd6a2b7593fc38408c8e1011c2fdf08cfa31"
+hash = "f5ce123d9d0c4b6a3fb8d22266480930510a1568b3fb52e0818e6ac2665fe9d5"
 metafile = true
 
 [[files]]
@@ -122,17 +122,17 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "e044eaa21c25e35800a24fb1c4592de36468b3fc3c217110c88df996e7c055d0"
+hash = "fe7faac1795cf87572cd4b9ecb14938bc42b65a8d9661e8d20f5edff87d4a363"
 metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "06164bbe2c2031fa520042068e78400a98efc85ebb48a82fc8930877341e829a"
+hash = "d6b5ece331caee4ee1d065ba640bc4816094cf46ab2e6bbcfc254ab75ea1984f"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "5ae720397946ac033d00de2c42a8517bdf1f10690d1237a242d69ef914e830df"
+hash = "c9083bcdf63e855417154011f4b26219ad2719599b7fa32346885e7b566d50eb"
 metafile = true
 
 [[files]]

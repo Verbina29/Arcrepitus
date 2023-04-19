@@ -1,14 +1,13 @@
 name = "TexTrue's Rubidium Options"
 filename = "TextruesRubidiumOptions-1.0.4-mc1.19.2.jar"
-side = "both"
+side = "client"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
+url = "https://cdn.modrinth.com/data/nm57myYP/versions/507L78pY/TextruesRubidiumOptions-1.0.4-mc1.19.2.jar"
 hash-format = "sha1"
 hash = "981a892f6354cbf1c969cffc0c3f476a03d3850b"
 
 [update]
-[update.curseforge]
-file-id = 4296210
-project-id = 663125
+[update.modrinth]
+mod-id = "nm57myYP"
+version = "507L78pY"

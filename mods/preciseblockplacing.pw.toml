@@ -3,10 +3,9 @@ filename = "preciseblockplacing-2.0.2+1.19-forge.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "3d12ec5176de1c26bddf27a764215726c10770c3"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

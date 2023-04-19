@@ -3,10 +3,9 @@ filename = "RoughlyEnoughItems-9.1.595.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "07472fa9e9c4fc7fc3ec2dff441fed9a3b15a151"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

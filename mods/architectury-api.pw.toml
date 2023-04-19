@@ -1,12 +1,11 @@
-name = "Architectury"
+name = "Architectury API"
 filename = "architectury-6.5.77-forge.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Kwuu4O4w/architectury-6.5.77-forge.jar"
-hash-format = "sha512"
-hash = "1f03069ce2c4f241b4008291bc0bbdc3c65005fd1d366e8e57f7156e177d256167f6b2632988ecded107368332db0b241031c97703709ab442a15f58b9b611bc"
+hash-format = "sha1"
+hash = "0aab8817d2afd240aa3203f686c65272c2604aa1"
 
 [update]
 [update.modrinth]

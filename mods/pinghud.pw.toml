@@ -3,10 +3,9 @@ filename = "PingHUD-2.0.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "357bbfa5546b1d514ffccf507b74fe22b7a5b317"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

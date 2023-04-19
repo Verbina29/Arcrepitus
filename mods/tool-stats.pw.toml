@@ -3,10 +3,9 @@ filename = "ToolStats-Forge-1.19.2-12.0.2.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "23ce737eaead2d708309001052276ae79ca9f968"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

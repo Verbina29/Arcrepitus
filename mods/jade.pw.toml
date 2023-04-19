@@ -3,10 +3,9 @@ filename = "Jade-1.19.1-forge-8.8.1.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/JSi5dyS2/Jade-1.19.1-forge-8.8.1.jar"
-hash-format = "sha512"
-hash = "57086f8d5ea14b9aa3f4de413a15ed0be84b1ca1c5563cb8efb176183b25eeea161c33b16e9e766a2c9f3f222ecbf4ad14d81ae0539427396ad8478ae4975d12"
+hash-format = "sha1"
+hash = "85bfa9775426908750388658dda2b164f79d2a34"
 
 [update]
 [update.modrinth]

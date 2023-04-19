@@ -3,10 +3,9 @@ filename = "AxolotlBucketFix-1.2.1+forge-mc1.19.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/xzRkNaTy/versions/TaAmQmXH/AxolotlBucketFix-1.2.1%2Bforge-mc1.19.jar"
-hash-format = "sha512"
-hash = "39e5d6ebb9bedbebfb43daf138d9e0829d906ac896d19ee9555890b766621ad8accf4a781fc7baf9b98acc48c0ae23ea4cd89f17eda56eb2968df6acdd852161"
+hash-format = "sha1"
+hash = "f6ed1386ff71a9a613f76cd4dc203ed1163abab7"
 
 [update]
 [update.modrinth]

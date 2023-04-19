@@ -3,10 +3,9 @@ filename = "rubidium-extra-0.4.17+mc1.19.2-build.71.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "0ac6b25a46250d67fcf3394bd44b3d34bd72cf55"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

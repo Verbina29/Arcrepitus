@@ -3,10 +3,9 @@ filename = "rubidium-0.6.2a.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "10279cd20734b108282498d951dde1c0bd60c367"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

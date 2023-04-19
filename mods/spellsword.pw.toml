@@ -1,0 +1,13 @@
+name = "YDM's Spellswords"
+filename = "spellsword-1.19-v1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ee94e39a192503d7bba5e7f8dc3433a10284f97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3824293
+project-id = 533875

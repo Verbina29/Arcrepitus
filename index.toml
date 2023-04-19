@@ -96,6 +96,11 @@ hash = "350ab620f74b8385cc5f172bb445296a51e005d707e3a726e870b28132529e53"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "264b1688008c30a56ad45822c93adca6f2f3bc6aac9895b9bc4678a10ad08fdb"
+metafile = true
+
+[[files]]
 file = "mods/datapack-anvil.pw.toml"
 hash = "824d07ee5c809c6ddb1b5d2710e0fcbe5af6588bea0a6507ffa3634292ca02b8"
 metafile = true

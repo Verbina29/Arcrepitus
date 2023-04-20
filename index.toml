@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/alexsmobs.toml"
+hash = "478f6756efc68739313ff5342f5f48a6f822863a36ab557b02339a435fc656f2"
+
+[[files]]
 file = "config/apotheosis/apotheosis.cfg"
 hash = "9373941af9ada49b7cf3eef10f8bc5d476bd38b533a6cff985c6ebd8d3609a96"
 
@@ -13,6 +17,10 @@ file = "config/feywild/client.json5"
 hash = "699d23aa59ab1570715cb7f85d782d120808201d281fa6e6a6a17171661ec197"
 
 [[files]]
+file = "config/feywild/misc.json5"
+hash = "021f1f9dc49ff2e0ad8735932deaa0e07778eddbafd73a9890ef357a98e55eab"
+
+[[files]]
 file = "config/theabyss.toml"
 hash = "e78436cf1193e4bb3bf14ad637fefc94e5a992a0411119e08aa7548660e093dd"
 
@@ -22,7 +30,7 @@ hash = "8e8f393577aec1197358b5d18c40a8e40352524218502f5c940e5df7f980192f"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "df042901bf2685ee8b08780bc22a25fef1d9547092edd58a45e47e57093fe79a"
+hash = "8c70923c0a5e21d1b573ddd8a290351f04bae2f44c7181dbca53a937d3c32553"
 
 [[files]]
 file = "mods/akashic-tome.pw.toml"

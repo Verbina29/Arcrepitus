@@ -25,6 +25,16 @@ file = "config/feywild/misc.json5"
 hash = "021f1f9dc49ff2e0ad8735932deaa0e07778eddbafd73a9890ef357a98e55eab"
 
 [[files]]
+file = "config/openloader/data/idas-alexs-mobs.pw.toml"
+hash = "f6942d4be156ce9b74393b95b332458429a7ce40ed2f35609b1c6abace390b70"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/integrated-stronghold-alexs-mobs-integration.pw.toml"
+hash = "2d140118202d83161e5196e8690e87379e645613927b2d6e95c26b3468dadfef"
+metafile = true
+
+[[files]]
 file = "config/theabyss.toml"
 hash = "e78436cf1193e4bb3bf14ad637fefc94e5a992a0411119e08aa7548660e093dd"
 
@@ -432,6 +442,11 @@ hash = "a806690351bb60a63d16937f9e41f3d03e05d5f187e9285478a0e411cb8425e3"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "a1e3ad26ef9afc2515b5f530cfd00e8a43675375d4ce9252cc6dcc90ad8d3957"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
@@ -664,14 +679,4 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "233f79cd76dc6d14c59a4cfbdc6660805c3f858e057061c1ca08df8cad73c56b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/idas-alexs-mobs.pw.toml"
-hash = "f6942d4be156ce9b74393b95b332458429a7ce40ed2f35609b1c6abace390b70"
-metafile = true
-
-[[files]]
-file = "resourcepacks/integrated-stronghold-alexs-mobs-integration.pw.toml"
-hash = "2d140118202d83161e5196e8690e87379e645613927b2d6e95c26b3468dadfef"
 metafile = true

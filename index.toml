@@ -508,6 +508,11 @@ hash = "8a77182b14712ca41a03fe2c99d4fe71a4fd54393fa48c8c43f1c89e5604272a"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "9aab2960b256d3f6ed9a6f054714422a221be551d01fbf6fe0a62259936fd402"
+metafile = true
+
+[[files]]
 file = "mods/pinghud.pw.toml"
 hash = "7fd33d117a00ce9550a7dd0763d7db25394ff285f8b478ba276502e88748f8c2"
 metafile = true

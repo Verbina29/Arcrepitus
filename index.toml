@@ -78,6 +78,11 @@ hash = "ff7d357e24271276700461907a889f1d846cb647d6831bf3a294a59eb8d0756c"
 metafile = true
 
 [[files]]
+file = "mods/arcrepitustweaks.pw.toml"
+hash = "12deb867adb6598f5f97ff6392125cedc1e0c7f3e3969f3888aee0da5eec5493"
+metafile = true
+
+[[files]]
 file = "mods/ars-armiger.pw.toml"
 hash = "1b64ed45186dcb4bfbc2a95630a61607c7baa7ac5bea878cc2668ba78c341206"
 metafile = true

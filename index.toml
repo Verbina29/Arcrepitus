@@ -223,6 +223,11 @@ hash = "dec2a277efdcfb326286ede499284145f9b80d06698cf9569b8b9c62a43221c6"
 metafile = true
 
 [[files]]
+file = "mods/ecologics.pw.toml"
+hash = "dfa75372673f799e133f90331afd2bea4c3db2c914fe5b72b47840ea849c35c9"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true
@@ -730,6 +735,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "c62cf487dbee7e21677802d222d084f98326d049bc7411ca3be635f236ae7e29"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "6ca35bde3ade37277fd8b3cf64450af75620a1fbfe974c4190547e388b45a2f8"
 metafile = true
 
 [[files]]

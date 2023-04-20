@@ -5,6 +5,10 @@ file = "config/alexsmobs.toml"
 hash = "478f6756efc68739313ff5342f5f48a6f822863a36ab557b02339a435fc656f2"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "85e73afcb37baf490f45359fdb529e1e93b58b1dd44a8c4a3da54f5f3e89212c"
+
+[[files]]
 file = "config/apotheosis/apotheosis.cfg"
 hash = "9373941af9ada49b7cf3eef10f8bc5d476bd38b533a6cff985c6ebd8d3609a96"
 

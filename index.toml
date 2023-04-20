@@ -302,6 +302,11 @@ hash = "7b9d56de3e741848543c76f59b7750599927fa98afb4fe109046c50c377f05a6"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials-forge.pw.toml"
+hash = "5b60c5cbc6b6a210856c49c73acf35076edaf484bc2387a7a9dea6d786c60de3"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "8cc76cce0b77e62ba5e3fc894e56c899202c73b1032045c34135a227df6da7a5"
 metafile = true

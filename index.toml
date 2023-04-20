@@ -567,6 +567,11 @@ hash = "afe4680b1c2d5bd94fcb398b9ab24b9c25e247586e4c7fe237cf1f1c31c03993"
 metafile = true
 
 [[files]]
+file = "mods/sdlink.pw.toml"
+hash = "47e4ddb611a146a9a1d00c9a274f12ebc256157fe2790e7906d129e46f5a0ef7"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "8b90af7acd60fbdf3f19861e794b7dc2d2c749480ccca7409aa0ea6e7752f7df"
 metafile = true

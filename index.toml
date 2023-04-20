@@ -568,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "94c5d47b41e62a7928d8c1b725e7e3434afe59c7bdb6dd19069db6e6069ebe02"
+hash = "7f54229e7a746ed90deef5113f2def2e265928ec6fb1d8a52bd551a8f4b1d50d"
 metafile = true
 
 [[files]]
@@ -679,11 +679,6 @@ metafile = true
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "1ba3e9315a5ee826fcce1cebd79225a3860ab3cbf55f6d996ef33c367ddbd92b"
-metafile = true
-
-[[files]]
-file = "mods/the-abyss-chapter-ii.pw.toml"
-hash = "35b65acf9e470587265e8861e3bf1feede86fa310f0dd190352c6d091d8842a9"
 metafile = true
 
 [[files]]

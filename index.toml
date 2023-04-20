@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "a52e9270056ae9bca8c548923cef6e23cc9152a9b888b659bb1ab8f8b8536bde"
+hash = "5a822cc5aa99b8c6260fbff4671a1f006361bfeb10edc0b0180ffdd99e819b9d"
 metafile = true
 
 [[files]]

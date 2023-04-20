@@ -47,6 +47,11 @@ file = "kubejs/server_scripts/script.js"
 hash = "8c70923c0a5e21d1b573ddd8a290351f04bae2f44c7181dbca53a937d3c32553"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "4c21bfaee9c59de2c1ce01a3004f2e47de7775c2f0043773ed435b7852be929c"
 metafile = true
@@ -54,6 +59,11 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "3b456838b481e7f8a31a2a59ec9f7bf4c8564710843fae7f5161e3054269955f"
 metafile = true
 
 [[files]]
@@ -232,6 +242,11 @@ hash = "2a95ebc9c17c85829a519d64a091fa9f670b47581d1156218acc08234b74a0d1"
 metafile = true
 
 [[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "d3fbc739336d573a1df8c4b9ebc5a8398d6b81d8f9857468b2bf0ced0cd38d41"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "731f105242a907173abc3ad888114faa9a71f3915a89fe4e694f4c45d66db6fe"
 metafile = true
@@ -244,6 +259,26 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "03c419552b4da26729b658e78546ed045e5d9b25bca5f9253ebfb6a33cd91d1f"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "e001ea41a138e42e5523e69b13523c1ebf76a1633320b3a7942b4eef76d36861"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "fa20611c73b25562d458869df9150ccdb920449b3f95ebca6111139d13435de4"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "d6c054a4f547e92831b8ef5fe4afea6432269a19fd1a60ba576865faff8a4638"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "5db298a5768d41bc516ac521d95588ff074e5af6bd17567628d10f319ebd85ae"
 metafile = true
 
 [[files]]
@@ -314,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "44b1ceed86da941acbdb1c107f795e1320cb4e2bfc980548da8d1ee6d1764257"
+metafile = true
+
+[[files]]
+file = "mods/it-shall-not-tick-(isnt).pw.toml"
+hash = "207b36436411e870ec21cc551e18eb695e7d7ed30b8f62b378ce10a4da4cf521"
 metafile = true
 
 [[files]]
@@ -539,6 +579,16 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "b933bc94d6ddd24c1dd26badefca4afe5714a42324de362a489f1f5465d2dccd"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "9435f9fc89e8c694bfb896dbe51e1bb92955b37a2407da3a89b200afdf5c4b4e"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "7b34fbdf04e61cc4870d3c27cd995b4b6fb2b766eaa6cae539599c44a3ab76b8"
 metafile = true
 
 [[files]]

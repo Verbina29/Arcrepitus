@@ -692,6 +692,11 @@ hash = "227384da173425caea554db8ae14f9433d344402a1916f5fb22f330924c7c06c"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "6fa07841be0b2cfaaaffc186e64285712582916c983258f4aefa036f2b369ad9"
+metafile = true
+
+[[files]]
 file = "mods/too-many-glyphs.pw.toml"
 hash = "12e87b5da0047ade56635094c72f2ba5525e1b2f2638a0162994c84d92d2c8fd"
 metafile = true

@@ -98,6 +98,11 @@ hash = "18fbbca2d8db2f1371d3080bf4c7178b68b5b2205532658c21e614776fc7fb1e"
 metafile = true
 
 [[files]]
+file = "mods/ars-scalaes.pw.toml"
+hash = "a246071f8a068701b3c4d401fa6bbfb2184cb9e9abb5da3afea12cff92f1a858"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true

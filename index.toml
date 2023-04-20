@@ -9,6 +9,10 @@ file = "config/ars_nouveau-common.toml"
 hash = "6484aa420e692ae254ed78123d600d7f48b7b1970f3d8c089330ca0552da725a"
 
 [[files]]
+file = "config/feywild/client.json5"
+hash = "699d23aa59ab1570715cb7f85d782d120808201d281fa6e6a6a17171661ec197"
+
+[[files]]
 file = "config/theabyss.toml"
 hash = "e78436cf1193e4bb3bf14ad637fefc94e5a992a0411119e08aa7548660e093dd"
 

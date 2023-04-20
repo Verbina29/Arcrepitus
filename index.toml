@@ -513,11 +513,6 @@ hash = "8b90af7acd60fbdf3f19861e794b7dc2d2c749480ccca7409aa0ea6e7752f7df"
 metafile = true
 
 [[files]]
-file = "mods/shutup-experimental-settings.pw.toml"
-hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
-metafile = true
-
-[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "a9a4e95e24894750635b270c8c89eafaeb0d61bbb5ab25f40e5c5075714ff828"
 metafile = true
@@ -660,6 +655,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "cd35ca151c2d41fcd4fea339745d9bf63de45feee8dcd933ddeee7f3a9261661"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "233f79cd76dc6d14c59a4cfbdc6660805c3f858e057061c1ca08df8cad73c56b"
 metafile = true
 
 [[files]]

@@ -401,6 +401,11 @@ hash = "c710fefb5118378e0ea6ae5fbf96418a0e1ba0fe40be6004b5ca6382a457676f"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "28e52215ad15eb6ba9f8a4cdda8bbadc25dd9bb3a241b66b2048c64e44e1e709"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "2a2fc28c2901198b226bd850a6786afc2dd82de31cb3e1793199e9ef14949859"
 metafile = true

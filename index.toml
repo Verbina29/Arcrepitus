@@ -35,16 +35,12 @@ hash = "2d140118202d83161e5196e8690e87379e645613927b2d6e95c26b3468dadfef"
 metafile = true
 
 [[files]]
-file = "config/theabyss.toml"
-hash = "e78436cf1193e4bb3bf14ad637fefc94e5a992a0411119e08aa7548660e093dd"
-
-[[files]]
 file = "kubejs/server_scripts/advancement_removal.js"
 hash = "8e8f393577aec1197358b5d18c40a8e40352524218502f5c940e5df7f980192f"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "8c70923c0a5e21d1b573ddd8a290351f04bae2f44c7181dbca53a937d3c32553"
+hash = "951fde33f969aed7dbc0870bb8ab31f01d57dc906d4604183ac2aae304afcb3e"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"

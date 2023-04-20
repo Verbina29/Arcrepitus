@@ -1,0 +1,13 @@
+name = "Ars Armiger"
+filename = "arsarmiger-1.19.2-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f061c1577b0133938d86deee73a50f795bbbde74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4418264
+project-id = 827926

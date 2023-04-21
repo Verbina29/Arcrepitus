@@ -3,7 +3,6 @@
 .gitignore
 *.html
 *.css
-*.zip
 *.mrpack
 packwiz.exe
 README.md

@@ -347,8 +347,13 @@ hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting.pw.toml"
-hash = "8d258c2a0894eb50d033bd98b6cf1b280a8c30fac0a1e40ff8c089e43a41a67d"
+file = "mods/hex-casting.pw.toml"
+hash = "056c06cb61ff81448b5a5a45a6e32b19614f02021d2a860e5124b2e864b32d19"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "d5e8daefc6070e6664aadf05f319304849c1bb8f5443255368bb75222a9166f3"
 metafile = true
 
 [[files]]
@@ -413,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "ee1ee7a327ab99accfd09c935272f85188fee63aa0e77807b9dea39067f5a3dc"
+hash = "ddfd557d336761ad7930548f24322cb8c771aa1e0187b13a51dea268b9690d3e"
 metafile = true
 
 [[files]]
@@ -459,6 +464,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "340d814fbc6aaf304dc3aabde23b76664586b3ddd82943973b523c642b711732"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "cea64ea57bd7a540aa0b5b1bdbee1b2d7a6c5e8b4b71ed7ad94bd60eb25c82ac"
 metafile = true
 
 [[files]]
@@ -518,12 +528,12 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
+hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
 metafile = true
 
 [[files]]
 file = "mods/paucal.pw.toml"
-hash = "8a77182b14712ca41a03fe2c99d4fe71a4fd54393fa48c8c43f1c89e5604272a"
+hash = "b7f2208957ae6e4666fdca00422343b9f375d4470b6b711a72eddb072a4597f5"
 metafile = true
 
 [[files]]

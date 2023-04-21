@@ -1,7 +1,0 @@
-name = "ArcrepitusTweaks"
-filename = "ArcrepitusTweaks.zip"
-
-[download]
-url = "https://github.com/Verbina29/Arcrepitus/blob/main/ArcrepitusTweaks.zip"
-hash-format = "sha1"
-hash = "f514ccc009003a93744ebc0fd5d6dded6b38b0c5"

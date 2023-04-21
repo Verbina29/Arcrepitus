@@ -25,6 +25,10 @@ file = "config/feywild/misc.json5"
 hash = "021f1f9dc49ff2e0ad8735932deaa0e07778eddbafd73a9890ef357a98e55eab"
 
 [[files]]
+file = "config/openloader/data/ArcrepitusTweaks.zip"
+hash = "e93a9776fa4798b312d3dd3e68142548d3c39e9164dd7bb8a5558da0e98cc67d"
+
+[[files]]
 file = "config/openloader/data/idas-alexs-mobs.pw.toml"
 hash = "f6942d4be156ce9b74393b95b332458429a7ce40ed2f35609b1c6abace390b70"
 metafile = true
@@ -32,6 +36,11 @@ metafile = true
 [[files]]
 file = "config/openloader/data/integrated-stronghold-alexs-mobs-integration.pw.toml"
 hash = "2d140118202d83161e5196e8690e87379e645613927b2d6e95c26b3468dadfef"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/william-wythers-create-compat-datapack.pw.toml"
+hash = "7ce83e26deb142ba20ff6e8503fd3892db9ba26a787390cfb98741f866049c3c"
 metafile = true
 
 [[files]]
@@ -745,6 +754,11 @@ metafile = true
 [[files]]
 file = "mods/whisperwoods.pw.toml"
 hash = "4043a9593fb5e1a5a8faa8b688f588b160d812feff378032f4ba07ae8676ad60"
+metafile = true
+
+[[files]]
+file = "mods/william-wythers-overhauled-overworld.pw.toml"
+hash = "c075471a142d4c00fb8833976d2a9852423be8e9a356d005103b8c18b59e175f"
 metafile = true
 
 [[files]]

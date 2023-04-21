@@ -1,0 +1,13 @@
+name = "William Wyther's - Create Compat Datapack"
+filename = "wwoo_create_compat-v1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7ccf6773ac76f3ac46862b2b5838712a6b41c65"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4409273
+project-id = 830666

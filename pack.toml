@@ -1,12 +1,12 @@
 name = "Arcrepitus"
 author = "AIGO Team"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "13218fd60a951051015869d68309af0c7b8f983de449ef63d018858c570f0ece"
+hash = "492120c97ba51782310b69b4074e35b28766492194b060dca5785ae3c3ece5ae"
 
 [versions]
 forge = "43.2.8"

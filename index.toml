@@ -44,6 +44,10 @@ hash = "7ce83e26deb142ba20ff6e8503fd3892db9ba26a787390cfb98741f866049c3c"
 metafile = true
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "226d108f4e583ce4910ebd3522757e606e36ef42d47da186e5d259323db690a9"
+
+[[files]]
 file = "kubejs/server_scripts/advancement_removal.js"
 hash = "8e8f393577aec1197358b5d18c40a8e40352524218502f5c940e5df7f980192f"
 
@@ -459,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "df33439e32683aaa3265a1031986d29b375b0036584db5de1b9f543822f35360"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "89032b1a50d49407a905ae0af9f65e5248357a7c19cf454a9a0f8ed6478ac365"
 metafile = true
 
 [[files]]

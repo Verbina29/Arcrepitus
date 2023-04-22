@@ -326,6 +326,11 @@ hash = "7b9d56de3e741848543c76f59b7750599927fa98afb4fe109046c50c377f05a6"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "fafba9b3f0604e857afeb5fb0b5d47a43e8b314fb6de0d6f648734cf2c1b525a"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials-forge.pw.toml"
 hash = "5b60c5cbc6b6a210856c49c73acf35076edaf484bc2387a7a9dea6d786c60de3"
 metafile = true
@@ -566,6 +571,11 @@ hash = "620cab251f09f339835ce084c857694f5b4f4078f7a34ba419a7089a69a9fd28"
 metafile = true
 
 [[files]]
+file = "mods/polylib.pw.toml"
+hash = "8563048e3a697e85591b18442d604a3e6f6460d8ca4244361cdc0c54a8e3dd16"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "44763cc5da2665b6e981cad902af6e0182fa50b897470b4e17b525cdeec1df6b"
 metafile = true
@@ -578,11 +588,6 @@ metafile = true
 [[files]]
 file = "mods/primal-magick.pw.toml"
 hash = "88bfe40be0246156f0adc472b9f13642e300c8ffa4c7feb87352c8ea091ea981"
-metafile = true
-
-[[files]]
-file = "mods/pyromancer.pw.toml"
-hash = "0c6a9ec86c54ad531b0a71bc5cdeeac2219b7c7dd4a7cdf709d37df0c1611d00"
 metafile = true
 
 [[files]]

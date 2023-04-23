@@ -401,11 +401,6 @@ hash = "44b1ceed86da941acbdb1c107f795e1320cb4e2bfc980548da8d1ee6d1764257"
 metafile = true
 
 [[files]]
-file = "mods/it-shall-not-tick-(isnt).pw.toml"
-hash = "207b36436411e870ec21cc551e18eb695e7d7ed30b8f62b378ce10a4da4cf521"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "1a09d48a5088667848c188d333ae32e81c1b953da50aa88360324e873ea9da70"
 metafile = true

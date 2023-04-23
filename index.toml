@@ -131,6 +131,11 @@ hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
 metafile = true
 
 [[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "cc0d6731cb4e0feae5445db3e6ffbe150c30ebcd1d172d7bf6be31aa059bc784"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "61646bf3738b16c07c6cee3de35afe9a016eb8ae031e2183e4b17c2090619741"
 metafile = true

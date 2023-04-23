@@ -246,6 +246,11 @@ hash = "dfa75372673f799e133f90331afd2bea4c3db2c914fe5b72b47840ea849c35c9"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "a9e63a5deba7ce844d4f25a7a90e7a2c4d8a3dd7b36fbc42a808a81f537d3a08"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true

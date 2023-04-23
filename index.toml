@@ -711,6 +711,11 @@ hash = "559b775ff6f37c7a83921dc8df4a83f2352f939eb935f538a7885af824f03788"
 metafile = true
 
 [[files]]
+file = "mods/structure-compass.pw.toml"
+hash = "d414c651b19243b1140f6b8633469952f158dfa7183bf83670c68112770a047f"
+metafile = true
+
+[[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "58356491ca3d573b1e786df93f0ed3072143747d7e660510d8dcd2fba94e15d3"
 metafile = true

@@ -286,6 +286,11 @@ hash = "86db0cdd0fd4ebffc2e01266ed40bd00f4d1103fa9746750b4ff4d08585685ae"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "92f0a1d2b221021d2c0ab36d5c3e293f01a3a938b13d82bf82b997968f85faf4"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "03c419552b4da26729b658e78546ed045e5d9b25bca5f9253ebfb6a33cd91d1f"
 metafile = true
@@ -708,11 +713,6 @@ metafile = true
 [[files]]
 file = "mods/strawgolem-reborn.pw.toml"
 hash = "559b775ff6f37c7a83921dc8df4a83f2352f939eb935f538a7885af824f03788"
-metafile = true
-
-[[files]]
-file = "mods/structure-compass.pw.toml"
-hash = "d414c651b19243b1140f6b8633469952f158dfa7183bf83670c68112770a047f"
 metafile = true
 
 [[files]]

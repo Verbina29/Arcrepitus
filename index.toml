@@ -126,6 +126,11 @@ hash = "25119872519f482c7be7ec8c2a237d63f279361131d2c26b6be3a4155b6686f8"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "23685eb8e76f12701d8dca40acb5d76279449a2dd011c6766a964d0dd460fa9e"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
 metafile = true

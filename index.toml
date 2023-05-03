@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/feywild.pw.toml"
-hash = "1771ac97e96c9a2c53437aeb8bae17d9499436625cd80eb63718e478d02ad3aa"
+hash = "a2710ffd94ccdf7e3ddfe580b66df778642cc3a9d64680a3a1ba9677cfb9cd7d"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
+hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
 
 [[files]]

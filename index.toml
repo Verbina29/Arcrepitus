@@ -136,6 +136,11 @@ hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "81d29ac3765b56e6a7977796303ca89e1d75099b7d289d8fa9883387a95299b0"
+metafile = true
+
+[[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "cc0d6731cb4e0feae5445db3e6ffbe150c30ebcd1d172d7bf6be31aa059bc784"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "61646bf3738b16c07c6cee3de35afe9a016eb8ae031e2183e4b17c2090619741"
+metafile = true
+
+[[files]]
+file = "mods/biomancy.pw.toml"
+hash = "0d6f413db7ac31e51dc73124f189a59f91e2f0568141ac6d7d37b360626c600d"
 metafile = true
 
 [[files]]
@@ -372,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
+hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
 metafile = true
 
 [[files]]
